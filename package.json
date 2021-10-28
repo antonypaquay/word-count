@@ -1,0 +1,14 @@
+{
+  "name": "word-count",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "live-server --port=3000"
+  },
+  "author": "Antony Paquay",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
